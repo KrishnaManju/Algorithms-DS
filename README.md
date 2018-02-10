@@ -1,5 +1,5 @@
-#Quick Sort logic
-
+# Quick Sort logic
+```
 using System;
 
 public class program
@@ -78,3 +78,4 @@ public class SortClass
 		return j;
 	}
 }
+```
